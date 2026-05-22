@@ -1,5 +1,16 @@
 # 💫 About Me:
-🔭 I’m currently working on Building tech projects & sharpening my skills step by step<br><br>👯 I’m looking to collaborate on creative tech ideas, and meaningful projects<br><br>🤝 I’m looking for help with Learning faster, building better systems, and real-world experience<br><br>🌱 I’m currently learning Cybersecurity & AI/ML models and problem-solving mindset<br><br>💬 Ask me about Tech, productivity, self-growth, and deep late-night thoughts<br><br>⚡ Fun fact Quiet by choice, not by lack of thoughts
+
+🔭 I’m currently focused on becoming a Java Full Stack Developer by building scalable applications and sharpening my problem-solving skills
+
+👯 I’m looking to collaborate on full stack projects, backend systems, APIs, and real-world software development ideas
+
+🤝 I’m looking for help with software architecture, frontend-backend integration, and industry-level development practices
+
+🌱 I’m currently learning Java, Spring Boot, React, Data Structures & Algorithms, databases, and full stack development concepts
+
+💬 Ask me about Java, full stack development, productivity, and software engineering
+
+⚡ Fun fact Quiet by choice, not by lack of thoughts
 
 
 ## 🌐 Socials:
